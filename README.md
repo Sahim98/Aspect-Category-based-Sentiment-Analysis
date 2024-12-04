@@ -31,7 +31,13 @@ This project focuses on solving the complex task of aspect category detection an
 
 ---
 
+## 📝 Results
+- Achieved state-of-the-art performance on Bangla datasets for aspect-based sentiment analysis:
+  - **Aspect Category Detection**: F1 score of **91.77%**  
+  - **Sentiment Polarity Classification**: F1 score of **79.72%**  
+  - **Combined Task**: F1 score of **73.79%**  
 
+---
 
 ## 📧 Contact
 For any questions or collaboration opportunities:  
