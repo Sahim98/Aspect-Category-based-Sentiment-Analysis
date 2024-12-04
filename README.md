@@ -35,5 +35,5 @@ This project focuses on solving the complex task of aspect category detection an
 
 ## 📧 Contact
 For any questions or collaboration opportunities:  
-📩 **Email**: [your-email@example.com](mailto:sahimsalem@gmail.com)  
-🔗 **GitHub**: [your-username](https://github.com/Sahim98)  
+📩 **Email**: [sahimsalem@gmail.com](mailto:sahimsalem@gmail.com)  
+🔗 **GitHub**: [Sahim98](https://github.com/Sahim98)  
